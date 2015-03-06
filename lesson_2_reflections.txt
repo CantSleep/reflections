@@ -8,14 +8,20 @@ it identifies the files you want to checkin, it give you the opportunity to chan
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+use diff --staged
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Creating a new feature that will take a while to develope
+
 How do the diagrams help you visualize the branch structure?
+it allows you to see who are the parents, and what will need to be merged 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the code has been combined, and the diagram shows how they were developed 
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+pros - if it works it saves time  cons - if it does not catch a conflict it could introduce a bug

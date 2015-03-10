@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    when developing a new feature.  Advantage master is quicker.  until your new feature is developed the branch allows you to keep new feature separate and allowing you to impliment bug fixes etc on the main branch
